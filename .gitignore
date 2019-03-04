@@ -31,3 +31,4 @@ Temporary Items
 __pycache__/
 *.py[cod]
 *$py.class
+*.sqlite3
